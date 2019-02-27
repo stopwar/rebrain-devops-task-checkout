@@ -1,17 +1,17 @@
 
-#Project Title
+# Project Title
 
 В данном репозитории находится дефолтный конфигурационный файл nginx
 
-##Versioning
+## Versioning
 
 v0.1
 
-##Authors
+## Authors
 
 * Зюзин Михаил
 
-##License
+## License
  MIT License 
 
 
